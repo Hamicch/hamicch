@@ -1,4 +1,4 @@
-[![Hayatu's GitHub Banner](./assets/GitHubHeader.png)](https://https://hayatusanusi.io)
+[![Hayatu's GitHub Banner](./assets/GitHubHeader.png)](https://hayatusanusi.io)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/hamicch/hamicch)](https://hayatusanusi.io) -->
 
