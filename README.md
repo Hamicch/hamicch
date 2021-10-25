@@ -24,16 +24,14 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-<a href="https://github.com/Hamicch/simple_shell">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Hamicch/alx-higher_level_programming">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=alx-higher_level_programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Hamicch/alx-higher_level_programming">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<br>
 
 <a href="https://github.com/Hamicch/amazon-clone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -58,7 +56,7 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=42b883&color=42b883)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=35495e&color=35495e)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=f0db4f)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=589636)
