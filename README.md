@@ -1,9 +1,10 @@
 [![Hayatu's GitHub Banner](./assets/GitHubHeader.png)](https://https://hayatusanusi.io)
 
-[![Visits Badge](https://badges.pufler.dev/visits/hamicch/hamicch)](https://hayatusanusi.io)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hamicch)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/hamicch/hamicch)](https://hayatusanusi.io) -->
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hamicch)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
 
 Hey there 👋
 
@@ -17,13 +18,21 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-<a href="https://github.com/Hamicch/printf">
+<a href="https://github.com/Hamicch/simple_shell">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=printf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/Hamicch/simple_shell">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Hamicch/alx-higher_level_programming">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Hamicch/amazon-clone">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hamicch&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -47,37 +56,35 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vuedotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat-square&logo=nuxtdotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=pyhton&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=white&color=42b883)
+![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=35495e)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=pyhton&logoColor=white&color=4584b6)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=589636)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat-square&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat-square&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=#264de4)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&color=#22d3ee)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=cc6699)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=Figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat-square&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat-square&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0e1e25)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CC3534)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=EF5B25)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=white&color=#a259ff)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=#18152E)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=#310000)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=for-the-badge&logo=Adobe-XD&logoColor=white&color=#f75eee)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=24292e)
 
 </details>
 
 <br>
 
-> ## Watchout for an article on how I made my ReadMe?
+> ## Watchout for my article on how I made my ReadMe
