@@ -87,4 +87,4 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-> ## Watchout for my article on how I made my ReadMe
+> ## I will be releasing an article on how I made my readme, watchout!
