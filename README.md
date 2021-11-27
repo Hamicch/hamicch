@@ -8,7 +8,7 @@
 
 Hey there 👋
 
-I'm a software engineer and UX designer who specializes in front-end development. I create beautifully-simple, innovative, and accessible websites. I make it my priority to translate user-centered designs in to pixel-perfect websites or applications that run very fast.
+I'm a software engineer and self-proclaimed UX designer who specializes in front-end development. I create beautifully-simple, innovative, and accessible websites. I make it my priority to translate user-centered designs in to pixel-perfect websites or applications that run very fast.
 
 Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/sanusihayatu/)
 
