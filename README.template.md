@@ -58,7 +58,6 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyhton&logoColor=white&color=4AB197)
