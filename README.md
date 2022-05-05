@@ -85,4 +85,8 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-> ## I will be releasing an article on how I made my readme, watchout!
+> ## Activities
+
+<a href="https://github.com/hamicch">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamicch" />
+</a>
