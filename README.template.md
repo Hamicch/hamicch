@@ -90,8 +90,8 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-> ## Activities
+<!-- > ## Activities
 
 <a href="https://github.com/hamicch">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamicch" />
-</a>
+</a> -->
