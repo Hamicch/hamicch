@@ -54,13 +54,13 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=reactL&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=42b883&color=42b883)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=35495e&color=35495e)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=f0db4f)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=343131)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=589636)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
 
