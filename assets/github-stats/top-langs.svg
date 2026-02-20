@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="180" viewBox="0 0 350 180">
+  <rect width="350" height="180" fill="#0d1117" rx="8"/>
+  <text x="175" y="95" fill="#58a6ff" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14">Top Langs</text>
+  <text x="175" y="115" fill="#8b949e" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="11">(generated on push via Actions)</text>
+</svg>
