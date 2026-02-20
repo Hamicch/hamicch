@@ -2,6 +2,8 @@
 
 Software Engineer who builds scalable interfaces, integrates AI into real products, and ships clean, user-focused experiences.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamicch&show_icons=true)](https://github.com/hamicch) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamicch)](https://github.com/hamicch)
+
 ## What I use
 
 - **Frontend:** TypeScript, React, Vue, Next.js, Nuxt, Tailwind CSS  
