@@ -1,4 +1,6 @@
-# Refresh GitHub stats and Top Langs SVGs so README images loads reliably
+# Refresh GitHub stats and Top Langs SVGs from your stats API (self-hosted recommended).
+# Set repository variable README_STATS_BASE_URL (e.g. https://your-app.vercel.app) — no trailing slash.
+# See: https://github.com/anuraghazra/github-readme-stats
 name: Update README stats
 
 on:
@@ -6,17 +8,50 @@ on:
   schedule:
     - cron: "0 12 * * *" # daily at 12:00 UTC
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      STATS_BASE_URL: ${{ vars.README_STATS_BASE_URL }}
     steps:
       - uses: actions/checkout@v4
 
       - name: Fetch GitHub stats SVGs
         run: |
+          set -euo pipefail
           mkdir -p assets/github-stats
-          curl -sL "https://github-readme-stats.vercel.app/api?username=hamicch&show_icons=true" -o assets/github-stats/stats.svg
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=hamicch" -o assets/github-stats/top-langs.svg
+
+          BASE_URL="${STATS_BASE_URL:-}"
+          if [ -z "$BASE_URL" ]; then
+            echo "::warning::README_STATS_BASE_URL is not set. Using the public instance (often unavailable or rate-limited). Set it under Settings → Secrets and variables → Actions → Variables."
+            BASE_URL="https://github-readme-stats.vercel.app"
+          fi
+          BASE_URL="${BASE_URL%/}"
+
+          fetch_svg() {
+            local url="$1" out="$2" attempt=1 max=4
+            while [ "$attempt" -le "$max" ]; do
+              echo "Fetching (attempt $attempt/$max): $url"
+              if curl -fsSL --max-time 90 "$url" -o "$out"; then
+                if head -c 4096 "$out" | grep -qE '<svg|<\?xml'; then
+                  return 0
+                fi
+                echo "Response is not valid SVG/XML, retrying..."
+              else
+                echo "curl failed, retrying..."
+              fi
+              attempt=$((attempt + 1))
+              sleep 15
+            done
+            echo "::error::Could not fetch valid SVG from $url"
+            exit 1
+          }
+
+          fetch_svg "$BASE_URL/api?username=hamicch&show_icons=true" assets/github-stats/stats.svg
+          fetch_svg "$BASE_URL/api/top-langs/?username=hamicch" assets/github-stats/top-langs.svg
 
       - name: Commit and push if changed
         run: |

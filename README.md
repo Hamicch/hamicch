@@ -2,6 +2,7 @@
 
 Software Engineer who builds scalable interfaces, integrates AI into real products, and ships clean, user-focused experiences.
 
+<!-- Stats SVGs: refresh via Actions workflow "Update README stats". Set repo variable README_STATS_BASE_URL to your self-hosted https://github.com/anuraghazra/github-readme-stats deployment (no trailing slash). -->
 [![GitHub stats](./assets/github-stats/stats.svg)](https://github.com/hamicch) [![Top Langs](./assets/github-stats/top-langs.svg)](https://github.com/hamicch)
 
 ## What I use
