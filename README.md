@@ -24,5 +24,4 @@ Software Engineer who builds scalable interfaces, integrates AI into real produc
 - Fast backend APIs  
 
 **Email:** hayatusanus.dev@gmail.com  
-**LinkedIn:** https://linkedin.com/in/sanusihayatu  
 **Learn more about me:** https://hayatusanusi.xyz
