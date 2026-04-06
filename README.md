@@ -21,7 +21,4 @@ Software Engineer who builds scalable interfaces, integrates AI into real produc
 
 <!-- - RAG and LLM tools for real business needs -->
 - Modern frontends for fintech, e-commerce, AI platforms and more  
-- Fast backend APIs  
-
-**Email:** hayatusanus.dev@gmail.com  
-**Learn more about me:** https://hayatusanusi.xyz
+- Fast backend APIs
