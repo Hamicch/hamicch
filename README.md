@@ -9,7 +9,7 @@ Software Engineer who builds scalable interfaces, integrates AI into real produc
 ## What I use
 
 - **Frontend:** TypeScript, React, Vue, Next.js, Nuxt, Tailwind CSS  
-- **Backend:** Node.js, Express/Fastify, REST, GraphQL  
+- **Backend:** Node.js, Python  
 <!-- - **AI/LLMs:** OpenAI, RAG, embeddings, agent workflows -->
 
 ## My values
