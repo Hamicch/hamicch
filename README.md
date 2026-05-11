@@ -6,8 +6,8 @@ Senior Software Engineer focused on building scalable platforms, AI-powered prod
 
 - **Frontend:** TypeScript, React, Vue, Next.js, Nuxt, Tailwind CSS
 - **Backend:** Node.js, Python
-- **AI/LLMs:** OpenAI, RAG, embeddings, AI agents & workflows
 - **Infrastructure & Tooling:** Docker, CI/CD, Vercel, AWS, Terraform, cloud deployment
+<!--- **AI/LLMs:** OpenAI, RAG, embeddings, AI agents & workflows -->
 
 <!--
 ## What I build
