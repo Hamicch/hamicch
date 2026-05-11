@@ -2,7 +2,7 @@
 
 Senior Software Engineer focused on building scalable platforms, AI-powered products, and high-performance user experiences.
 
-## What I work with
+## Some of the tools I work with
 
 - **Frontend:** TypeScript, React, Vue, Next.js, Nuxt, Tailwind CSS
 - **Backend:** Node.js, Python
