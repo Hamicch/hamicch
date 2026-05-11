@@ -1,10 +1,6 @@
 # Hey, I'm Hayatu
 
 Senior Software Engineer focused on building scalable platforms, AI-powered products, and high-performance user experiences.
-<!-- Stats SVGs: refresh via Actions workflow "Update README stats". Set repo variable README_STATS_BASE_URL to your self-hosted https://github.com/anuraghazra/github-readme-stats deployment (no trailing slash). -->
-<!--
-[![GitHub stats](./assets/github-stats/stats.svg)](https://github.com/hamicch) [![Top Langs](./assets/github-stats/top-langs.svg)](https://github.com/hamicch)
--->
 
 ## What I work with
 
@@ -27,3 +23,14 @@ Senior Software Engineer focused on building scalable platforms, AI-powered prod
 - Consistent on-time delivery
 - Clean, maintainable, and well-reasoned code
 -->
+
+<!-- Stats SVGs: refresh via Actions workflow "Update README stats". Set repo variable README_STATS_BASE_URL to your self-hosted https://github.com/anuraghazra/github-readme-stats deployment (no trailing slash). -->
+<details>
+  <summary>Stats</summary>
+
+  <br />
+
+  [![GitHub stats](./assets/github-stats/stats.svg)](https://github.com/hamicch)
+  [![Top Langs](./assets/github-stats/top-langs.svg)](https://github.com/hamicch)
+
+</details>
